@@ -15,4 +15,4 @@ def climbStairs(n, memo = {}):
     print(oneStep + twoStep)
     return oneStep + twoStep
 
-climbStairs(38)
+climbStairs(4)
