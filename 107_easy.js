@@ -34,4 +34,3 @@ function searchHelper(root, level, result) {
 }
 
 let circular = levelOrderBottom(root);
-l
